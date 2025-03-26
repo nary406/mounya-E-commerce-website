@@ -1,0 +1,59 @@
+.main_image {
+    width: 35%;
+    border-radius: 20px;
+    margin-right: 40px;
+  }
+  .allover_div {
+    padding: 50px;
+  }
+  .star_png {
+    width: 20px;
+  }
+  .raing_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #3b82f6;
+    width: 55px;
+    height: 35px;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    margin-right: 10px;
+  }
+  .review_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .top_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+  }
+  .cart_div {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 13%;
+    align-items: center;
+  }
+  .add_div {
+    background-color: #3b82f6;
+    padding: 10px;
+    border: none;
+    color: white;
+    border-radius: 10px;
+  }
+  .unOrder_list {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    list-style: none;
+    padding-left: 0px;
+  }
+  

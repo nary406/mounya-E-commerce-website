@@ -1,0 +1,16 @@
+.similiar_png {
+    width: 200px;
+    border-radius: 20px;
+  }
+  
+  .list_item {
+    margin: 30px;
+    margin-left: 0px;
+  }
+  .price_rating {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
