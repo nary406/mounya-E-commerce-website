@@ -11,8 +11,8 @@ function LoginFormWrapper(props) {
 
 class LoginForm extends Component {
   state = {
-    name: '',
-    userpassword: '',
+    name: 'mounya',
+    userpassword: 'mounya123',
     showSubmitError: false,
     errorMsg: '',
   }
